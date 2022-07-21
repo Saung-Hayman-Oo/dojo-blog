@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Mario By keeping all these questions in our mind today we have come up with a new topic called “A Guide on Paragraph Writing”. With this guide, well try to answer all these questions about paragraph writing. Paragraphs act as the main role in a students life. While writing any topic in an exam or competition needs paras to explain the concept in an understandable way for the readers.For grabbing the attention of readers, its compulsory to write a succinct paragraph by including all the elements. So, to make it easy and simple to understand by the students, lets start learning more about paragraph writing skills by referring below modules.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "Lugi  By keeping all these questions in our mind today we have come up with a new topic called “A Guide on Paragraph Writing”. With this guide, well try to answer all these questions about paragraph writing. Paragraphs act as the main role in a students life. While writing any topic in an exam or competition needs paras to explain the concept in an understandable way for the readers.For grabbing the attention of readers, its compulsory to write a succinct paragraph by including all the elements. So, to make it easy and simple to understand by the students, lets start learning more about paragraph writing skills by referring below modules.",
+      "author": "lugi",
+      "id": 2
+    },
+    {
+      "title": "Web Dev Tools",
+      "body": "Davis  By keeping all these questions in our mind today we have come up with a new topic called “A Guide on Paragraph Writing”. With this guide, well try to answer all these questions about paragraph writing. Paragraphs act as the main role in a students life. While writing any topic in an exam or competition needs paras to explain the concept in an understandable way for the readers.For grabbing the attention of readers, its compulsory to write a succinct paragraph by including all the elements. So, to make it easy and simple to understand by the students, lets start learning more about paragraph writing skills by referring below modules.",
+      "author": "Davis",
+      "id": 3
+    }
+  ]
+}
